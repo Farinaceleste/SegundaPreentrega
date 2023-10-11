@@ -1,7 +1,3 @@
-const Producto = function (nombre, precio) {
-    this.nombre = nombre;
-    this.precio = precio;
-}
 
 const productos = [
     { nombre: " guitarras aerodyne special telecaster", precio: 210000},
